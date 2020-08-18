@@ -479,7 +479,9 @@ pre {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin-right: -15px;
-  margin-left: -15px; }
+  margin-left: -15px; 
+  width: 100%;
+}
 
 .no-gutters {
   margin-right: 0;
@@ -8507,7 +8509,7 @@ h1, h2, h3, h4, h5,
         background: -webkit-linear-gradient(45deg, #0090FF 0%, #fd6100 100%);
         background: -o-linear-gradient(45deg, #0090FF 0%, #fd6100 100%);
         background: -ms-linear-gradient(45deg, #0090FF 0%, #fd6100 100%);
-        background: linear-gradient(45deg, #0090FF 0%, transparent);
+        background: linear-gradient(45deg, #000000 90%, transparent);
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0090FF', endColorstr='#fd6100', GradientType=1 );
         opacity: .5; }
       .owl-carousel.home-slider .slider-item .slider-text {

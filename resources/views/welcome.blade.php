@@ -45,7 +45,7 @@
               </div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Certified Teachers</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <p>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
               </div>
             </div>      
           </div>
@@ -56,7 +56,7 @@
               </div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Special Education</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <p>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
               </div>
             </div>    
           </div>
@@ -66,8 +66,8 @@
             		<span class="flaticon-books"></span>
               </div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Book &amp; Library</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">A Non-Profit Organization</h3>
+                <p>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
               </div>
             </div>      
           </div>
@@ -77,8 +77,8 @@
             		<span class="flaticon-diploma"></span>
               </div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Sport Clubs</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Extra Curricular Activities</h3>
+                <p>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
               </div>
             </div>      
           </div>
@@ -90,7 +90,7 @@
 			<div class="container">
 				<div class="row d-flex">
 					<div class="col-md-5 order-md-last wrap-about wrap-about d-flex align-items-stretch">
-						<div class="img" style="background-image: url(/images/about.jpg); border"></div>
+						<div class="img" style="background-image: url(/images/image_potr1.jpg); border"></div>
 					</div>
 					<div class="col-md-7 wrap-about py-5 pr-md-4 ftco-animate">
           	<h2 class="mb-4">What are our AIMS.</h2>
@@ -292,7 +292,7 @@
 </section>
 
 
-<section class="ftco-section">
+{{-- <section class="ftco-section">
 			<div class="container-fluid px-4">
 				<div class="row justify-content-center mb-5 pb-2">
           <div class="col-md-8 text-center heading-section ftco-animate">
@@ -355,7 +355,7 @@
 					</div>
 				</div>
 			</div>
-</section>
+</section> --}}
 
 <section class="ftco-section bg-light">
 			<div class="container-fluid px-4">
